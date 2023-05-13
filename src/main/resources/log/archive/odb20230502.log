@@ -1,0 +1,896 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 11:13:43 #1 store] 
+Database 'C:\Users\urtat\git\Bets21\src\main\resources\bets.temp' is opened by 9416@DESKTOP-HFKTUSK
+
+[2023-05-02 11:13:43 #2 type.registry] 
+New type domain.Question
+
+[2023-05-02 11:13:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 11:13:43 #4 type.registry] 
+New type domain.Event
+
+[2023-05-02 11:13:43 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 11:13:43 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-05-02 11:13:43 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-05-02 11:13:55 #8 type.registry] 
+New type domain.User
+
+[2023-05-02 11:13:55 #9 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 11:14:45 #1 store] 
+Database 'C:\Users\urtat\git\Bets21\src\main\resources\bets.temp' is opened by 14296@DESKTOP-HFKTUSK
+
+[2023-05-02 11:14:45 #2 type.registry] 
+New type domain.Question
+
+[2023-05-02 11:14:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 11:14:45 #4 type.registry] 
+New type domain.Event
+
+[2023-05-02 11:14:46 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 11:14:46 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-05-02 11:14:46 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-05-02 11:14:54 #8 type.registry] 
+New type domain.User
+
+[2023-05-02 11:14:54 #9 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 11:15:51 #1 store] 
+Database 'C:\Users\urtat\git\Bets21\src\main\resources\bets.temp' is opened by 25288@DESKTOP-HFKTUSK
+
+[2023-05-02 11:15:51 #2 type.registry] 
+New type domain.Question
+
+[2023-05-02 11:15:51 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 11:15:51 #4 type.registry] 
+New type domain.Event
+
+[2023-05-02 11:15:51 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 11:15:51 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-05-02 11:15:51 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-05-02 11:15:56 #8 type.registry] 
+New type domain.User
+
+[2023-05-02 11:15:56 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 11:16:48 #10 type.registry] 
+New type domain.Bazkide
+
+[2023-05-02 11:16:48 #11 type] 
+Type domain.Bazkide is not enhanced.
+
+[2023-05-02 11:16:48 #12 type.registry] 
+New type domain.Erreserba
+
+[2023-05-02 11:16:48 #13 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 11:18:13 #1 store] 
+Database 'C:\Users\urtat\git\Bets21\src\main\resources\bets.temp' is opened by 11420@DESKTOP-HFKTUSK
+
+[2023-05-02 11:18:13 #2 type.registry] 
+New type domain.Question
+
+[2023-05-02 11:18:13 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 11:18:13 #4 type.registry] 
+New type domain.Event
+
+[2023-05-02 11:18:13 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 11:18:13 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-05-02 11:18:13 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-05-02 11:18:23 #8 type.registry] 
+New type domain.User
+
+[2023-05-02 11:18:23 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 11:18:42 #10 type.registry] 
+New type domain.Bazkide
+
+[2023-05-02 11:18:42 #11 type] 
+Type domain.Bazkide is not enhanced.
+
+[2023-05-02 11:18:42 #12 type.registry] 
+New type domain.Erreserba
+
+[2023-05-02 11:18:42 #13 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 11:36:21 #1 store] 
+Database 'C:\Users\urtat\git\Bets21\src\main\resources\bets.temp' is opened by 28820@DESKTOP-HFKTUSK
+
+[2023-05-02 11:36:22 #2 type.registry] 
+New type domain.Question
+
+[2023-05-02 11:36:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 11:36:22 #4 type.registry] 
+New type domain.Event
+
+[2023-05-02 11:36:22 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 11:36:22 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-05-02 11:36:22 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-05-02 11:36:37 #8 type.registry] 
+New type domain.User
+
+[2023-05-02 11:36:37 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 11:36:37 #10 type.registry] 
+New type domain.Bazkide
+
+[2023-05-02 11:36:37 #11 type] 
+Type domain.Bazkide is not enhanced.
+
+[2023-05-02 11:36:37 #12 type.registry] 
+New type domain.Erreserba
+
+[2023-05-02 11:36:37 #13 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 11:40:24 #1 store] 
+Database 'C:\Users\urtat\git\Bets21\src\main\resources\bets.temp' is opened by 23244@DESKTOP-HFKTUSK
+
+[2023-05-02 11:40:24 #2 type.registry] 
+New type domain.Question
+
+[2023-05-02 11:40:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 11:40:24 #4 type.registry] 
+New type domain.Event
+
+[2023-05-02 11:40:24 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 11:40:24 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-05-02 11:40:24 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-05-02 11:40:44 #8 type.registry] 
+New type domain.User
+
+[2023-05-02 11:40:44 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 11:40:44 #10 type.registry] 
+New type domain.Bazkide
+
+[2023-05-02 11:40:44 #11 type] 
+Type domain.Bazkide is not enhanced.
+
+[2023-05-02 11:40:44 #12 type.registry] 
+New type domain.Erreserba
+
+[2023-05-02 11:40:44 #13 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 11:41:28 #1 store] 
+Database 'C:\Users\urtat\git\Bets21\src\main\resources\bets.temp' is opened by 31820@DESKTOP-HFKTUSK
+
+[2023-05-02 11:41:28 #2 type.registry] 
+New type domain.Question
+
+[2023-05-02 11:41:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 11:41:28 #4 type.registry] 
+New type domain.Event
+
+[2023-05-02 11:41:28 #5 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 11:41:28 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-05-02 11:41:28 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-05-02 11:41:44 #8 type.registry] 
+New type domain.User
+
+[2023-05-02 11:41:44 #9 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 11:41:44 #10 type.registry] 
+New type domain.Bazkide
+
+[2023-05-02 11:41:44 #11 type] 
+Type domain.Bazkide is not enhanced.
+
+[2023-05-02 11:41:44 #12 type.registry] 
+New type domain.Erreserba
+
+[2023-05-02 11:41:44 #13 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 11:43:50 #1 store] 
+Database 'C:\Users\urtat\git\Bets21\src\main\resources\bets.temp' is opened by 29568@DESKTOP-HFKTUSK
+
+[2023-05-02 11:43:50 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 11:43:50 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 11:43:50 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 11:43:50 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 15:31:17 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 8016@LAPTOP-6JJ3PQ48
+
+[2023-05-02 15:31:17 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 15:31:17 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 15:31:17 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 15:31:17 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 15:51:37 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 17364@LAPTOP-6JJ3PQ48
+
+[2023-05-02 15:51:37 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 15:51:37 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 15:51:37 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 15:51:37 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 15:55:27 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 24324@LAPTOP-6JJ3PQ48
+
+[2023-05-02 15:55:27 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 15:55:27 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 15:55:27 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 15:55:27 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 15:57:05 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 12952@LAPTOP-6JJ3PQ48
+
+[2023-05-02 15:57:05 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 15:57:05 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 15:57:05 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 15:57:05 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 15:58:00 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 9796@LAPTOP-6JJ3PQ48
+
+[2023-05-02 15:58:00 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 15:58:00 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 15:58:00 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 15:58:00 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 16:04:31 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 15712@LAPTOP-6JJ3PQ48
+
+[2023-05-02 16:04:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 16:04:31 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 16:04:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 16:04:31 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 16:08:51 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 15520@LAPTOP-6JJ3PQ48
+
+[2023-05-02 16:08:51 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 16:08:51 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 16:08:51 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 16:08:51 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 16:26:57 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 15388@LAPTOP-6JJ3PQ48
+
+[2023-05-02 16:26:58 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 16:26:58 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 16:26:58 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 16:26:58 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 16:33:39 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 6408@LAPTOP-6JJ3PQ48
+
+[2023-05-02 16:33:40 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 16:33:40 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 16:33:40 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 16:33:40 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 16:37:36 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 14916@LAPTOP-6JJ3PQ48
+
+[2023-05-02 16:37:36 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 16:37:36 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 16:37:36 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 16:37:36 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 16:40:20 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 20756@LAPTOP-6JJ3PQ48
+
+[2023-05-02 16:40:20 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 16:40:20 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 16:40:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 16:40:20 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 16:41:23 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 11-11)
+
+[2023-05-02 16:41:24 #2 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 10076@LAPTOP-6JJ3PQ48
+
+[2023-05-02 16:41:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 16:41:24 #4 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 16:41:24 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 16:41:24 #6 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 16:43:17 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 12-12)
+
+[2023-05-02 16:43:17 #2 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 3568@LAPTOP-6JJ3PQ48
+
+[2023-05-02 16:43:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 16:43:17 #4 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 16:43:17 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 16:43:17 #6 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 17:03:54 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 23124@LAPTOP-6JJ3PQ48
+
+[2023-05-02 17:03:54 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 17:03:54 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 17:03:54 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 17:03:54 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 17:04:12 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 19744@LAPTOP-6JJ3PQ48
+
+[2023-05-02 17:04:12 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 17:04:12 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 17:04:12 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 17:04:12 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 17:04:31 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 25964@LAPTOP-6JJ3PQ48
+
+[2023-05-02 17:04:31 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 17:04:31 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 17:04:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 17:04:31 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 17:24:11 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 8104@LAPTOP-6JJ3PQ48
+
+[2023-05-02 17:24:12 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 17:24:12 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 17:24:12 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 17:24:12 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 17:24:24 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 4724@LAPTOP-6JJ3PQ48
+
+[2023-05-02 17:24:24 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 17:24:24 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 17:24:24 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 17:24:24 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 17:28:53 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 17896@LAPTOP-6JJ3PQ48
+
+[2023-05-02 17:28:54 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 17:28:54 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 17:28:54 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 17:28:54 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 17:29:12 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 20804@LAPTOP-6JJ3PQ48
+
+[2023-05-02 17:29:13 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 17:29:13 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 17:29:13 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 17:29:13 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 17:38:11 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 4192@LAPTOP-6JJ3PQ48
+
+[2023-05-02 17:38:11 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 17:38:11 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 17:38:11 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 17:38:11 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 18:56:05 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 22916@LAPTOP-6JJ3PQ48
+
+[2023-05-02 18:56:06 #2 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-02 18:56:06 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-02 18:56:06 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 18:56:06 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 21:42:17 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 13-13)
+
+[2023-05-02 21:42:18 #2 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 16304@LAPTOP-6JJ3PQ48
+
+[2023-05-02 21:42:18 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 21:42:18 #4 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 21:42:32 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 18720@LAPTOP-6JJ3PQ48
+
+[2023-05-02 21:42:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 21:42:32 #3 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 21:42:52 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 11108@LAPTOP-6JJ3PQ48
+
+[2023-05-02 21:42:52 #2 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 21:42:52 #3 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 21:44:23 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 1644@LAPTOP-6JJ3PQ48
+
+[2023-05-02 21:44:23 #2 type.registry] 
+New type domain.User
+
+[2023-05-02 21:44:23 #3 type.registry] 
+New type domain.Arduraduna
+
+[2023-05-02 21:44:23 #4 type] 
+Type domain.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 21:45:01 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 13000@LAPTOP-6JJ3PQ48
+
+[2023-05-02 21:45:01 #2 type.registry] 
+New type domain.User
+
+[2023-05-02 21:45:01 #3 type.registry] 
+New type domain.Arduraduna
+
+[2023-05-02 21:45:01 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 21:45:01 #5 type] 
+Type domain.Arduraduna is not enhanced.
+
+[2023-05-02 21:45:01 #6 type.registry] 
+New type domain.Jarduera
+
+[2023-05-02 21:45:01 #7 type] 
+Type domain.Jarduera is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 21:58:53 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 5028@LAPTOP-6JJ3PQ48
+
+[2023-05-02 21:58:53 #2 type.registry] 
+New type domain.User
+
+[2023-05-02 21:58:53 #3 type.registry] 
+New type domain.Arduraduna
+
+[2023-05-02 21:58:53 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 21:58:53 #5 type] 
+Type domain.Arduraduna is not enhanced.
+
+[2023-05-02 21:58:53 #6 type.registry] 
+New type domain.Jarduera
+
+[2023-05-02 21:58:53 #7 type] 
+Type domain.Jarduera is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 21:59:42 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 2672@LAPTOP-6JJ3PQ48
+
+[2023-05-02 21:59:42 #2 type.registry] 
+New type domain.User
+
+[2023-05-02 21:59:42 #3 type.registry] 
+New type domain.Arduraduna
+
+[2023-05-02 21:59:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 21:59:42 #5 type] 
+Type domain.Arduraduna is not enhanced.
+
+[2023-05-02 21:59:42 #6 type.registry] 
+New type domain.Jarduera
+
+[2023-05-02 21:59:42 #7 type] 
+Type domain.Jarduera is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 22:28:39 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-7)
+
+[2023-05-02 22:28:39 #2 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 12664@LAPTOP-6JJ3PQ48
+
+[2023-05-02 22:28:39 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 22:28:39 #4 type] 
+Type domain.Arduraduna is not enhanced.
+
+[2023-05-02 22:28:39 #5 type] 
+Type domain.Jarduera is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 22:29:02 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 19944@LAPTOP-6JJ3PQ48
+
+[2023-05-02 22:29:02 #2 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 22:29:02 #3 type] 
+Type domain.Arduraduna is not enhanced.
+
+[2023-05-02 22:29:02 #4 type] 
+Type domain.Jarduera is not enhanced.
+
+[2023-05-02 22:30:13 #5 type.registry] 
+New type domain.Bazkide
+
+[2023-05-02 22:30:13 #6 type] 
+Type domain.Bazkide is not enhanced.
+
+[2023-05-02 22:30:13 #7 type.registry] 
+New type domain.Erreserba
+
+[2023-05-02 22:30:13 #8 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+[2023-05-02 22:30:13 #9 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 22:38:40 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 8-10)
+
+[2023-05-02 22:38:41 #2 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 21816@LAPTOP-6JJ3PQ48
+
+[2023-05-02 22:38:41 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 22:38:41 #4 type] 
+Type domain.Arduraduna is not enhanced.
+
+[2023-05-02 22:38:41 #5 type] 
+Type domain.Jarduera is not enhanced.
+
+[2023-05-02 22:38:41 #6 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 22:40:27 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 10044@LAPTOP-6JJ3PQ48
+
+[2023-05-02 22:40:27 #2 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 22:40:27 #3 type] 
+Type domain.Arduraduna is not enhanced.
+
+[2023-05-02 22:40:27 #4 type] 
+Type domain.Jarduera is not enhanced.
+
+[2023-05-02 22:40:27 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 22:44:47 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 21744@LAPTOP-6JJ3PQ48
+
+[2023-05-02 22:44:47 #2 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 22:44:47 #3 type] 
+Type domain.Arduraduna is not enhanced.
+
+[2023-05-02 22:44:47 #4 type] 
+Type domain.Jarduera is not enhanced.
+
+[2023-05-02 22:44:47 #5 type] 
+Type domain.Bazkide is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-02 22:45:12 #1 store] 
+Database 'C:\Users\maroa\OneDrive\Escritorio\SI_workplace\Bets21\src\main\resources\bets.temp' is opened by 15316@LAPTOP-6JJ3PQ48
+
+[2023-05-02 22:45:12 #2 type] 
+Type domain.User is not enhanced.
+
+[2023-05-02 22:45:12 #3 type] 
+Type domain.Arduraduna is not enhanced.
+
+[2023-05-02 22:45:12 #4 type] 
+Type domain.Jarduera is not enhanced.
+
+[2023-05-02 22:45:12 #5 type] 
+Type domain.Bazkide is not enhanced.
+
